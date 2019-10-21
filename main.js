@@ -1,12 +1,14 @@
-function changeLast() {
-
+function changeLast(arr) {
+  arr1[2] = '5';
+  arr2[1] = '5';
 }
 
-function addMeToEnd() {
-
+function addMeToEnd(arr) {
+  arr1.concat([Colin]);
+  arr2.concat([Colin]);
 }
 
-function addMeToStart() {
+function addMeToStart(arr) {
 
 }
 
